@@ -8,7 +8,7 @@ body {
   */
 }
 
-#menu {
+.menu {
   width : 80%;
   background-color : burlywood;
   margin-left : auto;
