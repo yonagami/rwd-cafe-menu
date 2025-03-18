@@ -20,6 +20,10 @@ h1,h2 {
   font-family: Impact, serif;
 }
 
+.established {
+  font-style: italic;
+}
+
 .flavor, .dessert {
   text-align : left;
   width : 75%
